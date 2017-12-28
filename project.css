@@ -1,0 +1,96 @@
+.introduction {
+  font-size: 120%;
+  text-align: center;
+margin-left: 0;
+margin-right: 0;
+}
+
+.title {
+  text-align: center;
+margin-left: 30%;
+margin-right: 30%;
+background-color:black;
+color:red;
+}
+
+h1  {
+  text-align: center;
+  border-radius: 20px;
+  padding: 20px;
+  margin-top: 5px;
+  margin-bottom: 0px;
+  margin-right: 0px
+}
+
+.Zidane {
+background-color:blue;
+color:red;
+}
+
+div.Zidane {
+  font-size: 120%;
+  border-radius: 10px;
+  padding: 20px;
+  margin-top: 5px;
+  margin-bottom: 20px;
+  margin-right: 0px
+}
+
+.Ronaldo {
+background-color:Green;
+color:Yellow;
+}
+
+div.Ronaldo {
+  font-size: 120%;
+  border-radius: 10px;
+  padding: 20px;
+  margin-top: 5px;
+  margin-bottom: 20px;
+  margin-right: 0px
+}
+
+.Figo {
+background-color:Red;
+color:black;
+}
+
+div.Figo {
+  font-size: 120%;
+  border-radius: 10px;
+  padding: 20px;
+  margin-top: 5px;
+  margin-bottom: 20px;
+  margin-right: 0px
+}
+
+.Beckham {
+background-color:Red;
+color:White;
+}
+
+div.Beckham {
+  font-size: 120%;
+  border-radius: 10px;
+  padding: 20px;
+  margin-top: 5px;
+  margin-bottom: 20px;
+  margin-right: 0px
+}
+
+.background {
+  border-radius: 50%;
+  padding: 20px;
+  margin-top: 5px;
+  margin-bottom: 6px;
+}
+
+
+.image {
+  border-radius: 50%;
+  padding: 20px;
+  margin-top: 5px;
+  margin-bottom: 6px;
+  margin-right: 50%;
+  margin-left: 43%
+}
